@@ -1,2 +1,3 @@
-# Base Template Advance
-Advance base template for repositories of C++
+# OOP - Inheritance
+
+Basic example to represent the OOP
